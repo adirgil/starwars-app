@@ -1,4 +1,5 @@
 import React from "react";
+import "./Bar.css";
 
 function Bar({ height, name, value, color, width }) {
   const divStyle = {
